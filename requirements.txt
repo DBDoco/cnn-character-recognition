@@ -1,0 +1,11 @@
+torch
+torchvision
+numpy
+matplotlib
+seaborn
+scikit-learn
+deap
+tqdm
+pillow
+opencv-python
+tkinterdnd2
