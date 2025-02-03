@@ -1,6 +1,10 @@
+<div align="center">
+
 # Handwritten Character Recognition with Genetic Algorithm Optimization
 
 ![UI Demo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjB5NWNlcHB3Mmc5cDQzcjA2Zzlhbm95eHFicGxmbDVybnhjYzJheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qXUHudwVJ7UMHBVwhT/giphy.gif)
+
+</div>
 
 ## Project Overview
 
